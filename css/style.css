@@ -1,9 +1,11 @@
 
 body{
 background-color:#292326;
-
+flex: 1;
+flex-wrap: wrap;
 }
 .chat{
+flex-wrap: wrap;
 position:absolute;
 top: 226px;
 left: 80px;
